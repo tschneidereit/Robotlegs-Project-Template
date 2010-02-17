@@ -40,6 +40,7 @@ package app.view
 		*******************************************************************************************/
 		private function initialize () : void
 		{
+			stop();
 			stage.scaleMode = StageScaleMode.NO_SCALE;
 			stage.align = StageAlign.TOP_LEFT;
 			addEventListener(Event.ENTER_FRAME, self_enterFrame);
