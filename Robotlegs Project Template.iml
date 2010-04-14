@@ -6,6 +6,7 @@
     <option name="OUTPUT_FILE_NAME" value="App.swf" />
     <option name="TARGET_PLAYER_VERSION" value="9.0.124" />
     <option name="ADDITIONAL_COMPILER_OPTIONS" value="-includes com.nesium.logging.TrazzleLogger" />
+    <option name="VERSION" value="3" />
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/bin" />
